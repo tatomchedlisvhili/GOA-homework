@@ -18,3 +18,14 @@ name = "tato"
 name = "nika"
 
 print(name)
+
+
+number = 5-1
+number2 = 5+1
+number3 = 10/2
+number4 = 5*2
+
+print(number)
+print(number2)
+print(number3)
+print(number4)
