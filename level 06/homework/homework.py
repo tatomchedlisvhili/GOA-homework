@@ -28,20 +28,23 @@ print (surname * 100)
 
 #3
 
-n1= "saxli"
-n2= " bina"
-n3 = " agaraki"
-n4 = " dacha"
+n1= "sax"
+n2= "li"
+n3 = "da"
+n4 = "cha"
+n5 = "va"
+n6 = "shli"
 
-print (n1 + n2 + n3 + n4)
-
+print (n1 + n2)
+print (n3 + n4)
+print (n5 + n6)
 
 #4
 
 # სტრინგს ვიყენებთ იმისთვის რომ გამოვსახოთ ტექსტური ტიპის ინფორმაცია
 # ინტეჯერს ვიყენებთ მთელი რიცხვებისთვის 
 # floats ვიყენებთ წილადი რიცხვებისთვის
-# boolean-ს ვიყენებთ იმისთვის რომ გამოვსახოთ true ან false  
+# boolean-ს ვიყენებთ იმისთვის რომ გამოვსახოთ რაიმე იმფორმაციის სიმართლე  ან ტყუილი მაგ: love_pets = True
 
 
 
@@ -50,11 +53,13 @@ print (n1 + n2 + n3 + n4)
 name = "tato"
 age = 17
 decimal = 10.2
+love_basketball= True
 
 
 print(type(name))
 print(type(age))
 print(type(decimal))
+print(type(love_basketball))
 
 
 
