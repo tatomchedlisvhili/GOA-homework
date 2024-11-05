@@ -1,12 +1,16 @@
 # 1
 print ( 5 > 10)
 print ( 3 < 2)
+print (20 < 200)
 
 print (6 > 4)
 print ( 7 > 9)
+print ( 200 > 2000)
+
 
 print ( 5 <= 5 )
 print ( 5 <= 3)
+print ( 100 <= 20)
 
 name = "tato"
 
@@ -17,7 +21,7 @@ print (name == "nika")
 
 number= int(input("chaweret tkveni sayvareli cipri: "))
 
-print (number <= 1)
+print (number == 1)
 
 
 
@@ -34,8 +38,8 @@ print (number <= 1)
 asaki = int(input("chaweret tkveni asaki: "))
 sname = input("chaweret tkveni gvari: ")
 
-print (asaki >= 18)
-print (sname == "mchedlishvili")
+print (asaki >= 18 or sname == "mchedlishvili")
+
 
 
 #5
