@@ -26,3 +26,4 @@ print((num1 + num2 + num3 + num4 + num5) / 5)
 #name = ("tato")
 #print(name)
 #debuggingi aris rodesac kodshi shecdomaa da kompiuteri egreve wyvets mushaobas
+
