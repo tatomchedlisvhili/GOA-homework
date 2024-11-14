@@ -4,7 +4,7 @@ for i in range(50,100,2):
 
 q = int(input("sheiyvanet sityva: "))
 
-for 
+
 
 
 j = 500    
@@ -32,5 +32,6 @@ while m < 100:
 while m > 100:
     print (m)
     m -= 1
+
 
 
